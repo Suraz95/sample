@@ -1,1 +1,1 @@
-pi=3.14
+export const db_name="shariq"
